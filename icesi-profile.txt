@@ -1,0 +1,3 @@
+a. NOMBRE: Mariana
+b. APELLIDO: Galvis Posada
+c. FECHA_DE_NACIMIENTO: Su fecha de nacimiento en formato 2005-08-06
